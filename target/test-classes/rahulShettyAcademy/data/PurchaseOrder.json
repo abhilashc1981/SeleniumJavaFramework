@@ -1,0 +1,17 @@
+[
+	{
+		"email": "abhilashc24@gmail.com",
+		"password": "aZYb)(12xC",
+		"product": "ZARA COAT 3",
+		"country": "India",
+		"confirmationMessage": "Thankyou for the order."
+	},
+	
+	{
+		"email": "abhilashc1981@hotmail.com",
+		"password": "aZYb)(12xC",
+		"product": "ADIDAS ORIGINAL",
+		"country": "India",
+		"confirmationMessage": "Thankyou for the order."
+	}
+]
